@@ -9,7 +9,8 @@ This repository contains my work and progress as I train to join the Forge Start
 
 ## 📚 Sections
 
-- html-css/ – Basic layout and styling projects
+- html/-Basic layout
+-css/ – styling projects
 - javascript/ – Core JS practice and mini projects
 - react/ – React components and apps
 - node/ – Backend development with Node & Express
